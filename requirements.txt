@@ -1,0 +1,13 @@
+deep-translator
+translators
+huggingface-hub
+manga-ocr
+numpy
+opencv-python-headless
+pillow
+ultralytics
+sentencepiece
+surya-ocr
+gradio
+google-generativeai
+python-dotenv
