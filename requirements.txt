@@ -1,0 +1,13 @@
+deep-translator==1.11.4
+translators==5.9.1
+huggingface-hub
+manga-ocr
+numpy
+opencv-python-headless
+pillow
+ultralytics
+sentencepiece
+surya-ocr
+gradio
+google-generativeai
+python-dotenv
